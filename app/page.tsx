@@ -18,7 +18,7 @@ export default function Page() {
             className="h-0 w-0 border-b-[30px] border-l-[20px] border-r-[20px] border-b-black border-l-transparent border-r-transparent"
           /> */}
           <p className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}>
-            <strong>Welcome to Acme.</strong>
+            <strong>Welcome to High Sierra Vending!</strong>
           </p>
           <Link
             href="/login"
