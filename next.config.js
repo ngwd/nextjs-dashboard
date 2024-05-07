@@ -3,6 +3,6 @@ const nextConfig = {};
 
 module.exports = {
     env: {
-      NEXTAUTH_URL: 'https://localhost:10000'
+      NEXTAUTH_URL: 'https://high-sierra-vending.vercel.app'
     }
   }
